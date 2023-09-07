@@ -17,11 +17,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 ![01](https://github.com/Sachintha-Samarathunga/thread.app/assets/98406068/c9d9ed71-959d-4466-a73d-322d7c7a804a)
-![02](https://github.com/Sachintha-Samarathunga/thread.app/assets/98406068/a78d8ac4-290e-4383-97ac-5b5f11023867)
-![03](https://github.com/Sachintha-Samarathunga/thread.app/assets/98406068/358c66ab-b2a0-4e00-a761-257eac8fcf5e)
-![04](https://github.com/Sachintha-Samarathunga/thread.app/assets/98406068/0a8a7652-d6a5-485d-8962-dbd4c84e2da9)
-![05](https://github.com/Sachintha-Samarathunga/thread.app/assets/98406068/817ed84a-5d2c-4bf6-ac7e-d67528e0484c)
-![06](https://github.com/Sachintha-Samarathunga/thread.app/assets/98406068/0c13ca29-baab-4b32-a20d-afed6638c103)
+![01](https://github.com/Sachintha-Samarathunga/thread.app/assets/98406068/b3354ad4-a5c6-4dd1-8ee2-8c8104890a0b)
+![02](https://github.com/Sachintha-Samarathunga/thread.app/assets/98406068/10b6782e-381f-439d-88c0-8b4b88866676)
+![03](https://github.com/Sachintha-Samarathunga/thread.app/assets/98406068/e2f475f3-2124-4e26-97e0-df4b8eeeed8b)
+![04](https://github.com/Sachintha-Samarathunga/thread.app/assets/98406068/0c2ecda8-36c0-432c-8d13-10d16d29d2fa)
+![05](https://github.com/Sachintha-Samarathunga/thread.app/assets/98406068/cf51356f-c584-4105-8d37-a024557ba57c)
+![06](https://github.com/Sachintha-Samarathunga/thread.app/assets/98406068/506f8f89-bde0-49d1-8ab4-361b8b913053)
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
